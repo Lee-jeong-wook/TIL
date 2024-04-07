@@ -1,0 +1,6 @@
+### OOP 5대 원칙(SOLID)
+1. SRP
+2. OCP
+3. LSP
+4. ISP
+5. DIP
