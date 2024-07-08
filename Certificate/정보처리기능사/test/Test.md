@@ -122,3 +122,5 @@
 * 테스트 엔지니어의 늦은 투입은 프로젝트 이해 부족으로 불완전한 테스트 초래
 ##### 테스트 도구의 평가 방법 및 요소
 ![img](https://velog.velcdn.com/images/fulldev_hong/post/1e766e79-3955-4b68-aa65-ead3d26ed3d4/image.PNG)
+
+### 화이트박스 테스트
